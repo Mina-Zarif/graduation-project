@@ -1,16 +1,23 @@
-# student_portal
+## **Project Overview**  
+This project is a [brief description of the app, e.g., "a mobile app for managing tasks efficiently"].  
+The UI has been implemented, and we are currently working on integrating the backend.  
 
-A new Flutter project.
+## **Current Status**  
+✅ **Completed:**  
+- Full UI implementation  
+- Navigation between screens   
+- Responsive design for different screen sizes  
 
-## Getting Started
+⚠️ **In Progress:**  
+- Backend integration (API calls, authentication, etc.)  
+- Connecting UI to real data instead of dummy data  
+- Error handling and edge case testing
+- some ui optmizations 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **Tech Stack**  
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **State Management:** [Bloc]
+- **Pattern: ** [Clean Archticure]
+- **Networking:** [Dio]  
+- **Storage:** [SharedPreferences, SecuredFlutterStorage]
