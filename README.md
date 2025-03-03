@@ -1,5 +1,5 @@
 ## **Project Overview**  
-This project is a [brief description of the app, e.g., "a mobile app for managing tasks efficiently"].  
+This project is a tech community platform designed for students to easily share scientific content and discover internship opportunities.  
 The UI has been implemented, and we are currently working on integrating the backend.  
 
 ## **Current Status**  
@@ -17,7 +17,7 @@ The UI has been implemented, and we are currently working on integrating the bac
 ## **Tech Stack**  
 - **Framework:** Flutter  
 - **Language:** Dart  
-- **State Management:** [Bloc]
-- **Pattern: ** [Clean Archticure]
-- **Networking:** [Dio]  
+- **State Management:** Bloc
+- **Pattern:** Clean Archticure
+- **Networking:** Dio  
 - **Storage:** [SharedPreferences, SecuredFlutterStorage]
