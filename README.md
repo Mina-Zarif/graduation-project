@@ -1,5 +1,8 @@
 ## **Project Overview**  
-This project is a tech community platform designed for students to easily share scientific content and discover internship opportunities.  
+This project is a tech community platform that enables students to seamlessly share scientific content and explore internship opportunities.  
+
+For more details, refer to the documentation repository: [Student Portal Docs](https://github.com/StudentPortal-grad/student-portal-docs).  
+
 The UI has been implemented, and we are currently working on integrating the backend.  
 
 ## **Current Status**  
